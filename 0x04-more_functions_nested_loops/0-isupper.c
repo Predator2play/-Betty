@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_isuper - check if letter is upper
+ *_isupper - check if letter is upper
  *@c: number to be checked
  *Return: 1 for upper or 0 for lower
  */
